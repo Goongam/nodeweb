@@ -9,5 +9,4 @@ server.use('/', require('./modules/user'));
 
 server.listen(3000, ()=>{
     console.log('open2');
-    
 });
